@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 7118d32b5c8bf344f80af282a0aef386
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2283286509472130540
+    second: Pink_Monster_Jump_8_0
+  - first:
+      213: 6556944997375165909
+    second: Pink_Monster_Jump_8_1
+  - first:
+      213: -3992844248288220073
+    second: Pink_Monster_Jump_8_2
+  - first:
+      213: -6125399602190560530
+    second: Pink_Monster_Jump_8_3
+  - first:
+      213: -2939628711568879435
+    second: Pink_Monster_Jump_8_4
+  - first:
+      213: -4875272673939935668
+    second: Pink_Monster_Jump_8_5
+  - first:
+      213: -3960816354698005906
+    second: Pink_Monster_Jump_8_6
+  - first:
+      213: 8657712412600128567
+    second: Pink_Monster_Jump_8_7
+  - first:
+      213: -6186941781226523545
+    second: Pink_Monster_Jump_8_8
+  - first:
+      213: -1725446265490283683
+    second: Pink_Monster_Jump_8_9
+  - first:
+      213: 6658533411152402902
+    second: Pink_Monster_Jump_8_10
+  - first:
+      213: 8456498361007005251
+    second: Pink_Monster_Jump_8_11
+  - first:
+      213: -1869536291133207281
+    second: Pink_Monster_Jump_8_12
+  - first:
+      213: 8828638649449228828
+    second: Pink_Monster_Jump_8_13
+  - first:
+      213: -4782126968201087899
+    second: Pink_Monster_Jump_8_14
+  - first:
+      213: 8688512866639733444
+    second: Pink_Monster_Jump_8_15
+  - first:
+      213: -1439314866175232500
+    second: Pink_Monster_Jump_8_16
+  - first:
+      213: -1639711972196635483
+    second: Pink_Monster_Jump_8_17
+  - first:
+      213: -2898844503875070110
+    second: Pink_Monster_Jump_8_18
+  - first:
+      213: -1538936923953943722
+    second: Pink_Monster_Jump_8_19
+  - first:
+      213: 1974242015054767154
+    second: Pink_Monster_Jump_8_20
+  - first:
+      213: 6857822409055287757
+    second: Pink_Monster_Jump_8_21
+  - first:
+      213: -4546989036417270024
+    second: Pink_Monster_Jump_8_22
+  - first:
+      213: -6529225070411161256
+    second: Pink_Monster_Jump_8_23
+  - first:
+      213: 6082948095017847634
+    second: Pink_Monster_Jump_8_24
+  - first:
+      213: -3595651359756405106
+    second: Pink_Monster_Jump_8_25
+  - first:
+      213: -4856232268206443982
+    second: Pink_Monster_Jump_8_26
+  - first:
+      213: -2271239254158355194
+    second: Pink_Monster_Jump_8_27
+  - first:
+      213: -4359707947464509562
+    second: Pink_Monster_Jump_8_28
+  - first:
+      213: -5858236969558111575
+    second: Pink_Monster_Jump_8_29
+  - first:
+      213: -3281918576658565501
+    second: Pink_Monster_Jump_8_30
+  - first:
+      213: -8069270515305452889
+    second: Pink_Monster_Jump_8_31
+  - first:
+      213: -1701718349231287460
+    second: Pink_Monster_Jump_8_32
+  - first:
+      213: -1344342506938660286
+    second: Pink_Monster_Jump_8_33
+  - first:
+      213: -5595701264111225345
+    second: Pink_Monster_Jump_8_34
+  - first:
+      213: 5546611714093652157
+    second: Pink_Monster_Jump_8_35
+  - first:
+      213: 1329953553875781109
+    second: Pink_Monster_Jump_8_36
+  - first:
+      213: -21542850910319144
+    second: Pink_Monster_Jump_8_37
+  - first:
+      213: -20657600351612742
+    second: Pink_Monster_Jump_8_38
+  - first:
+      213: -6186230859010065406
+    second: Pink_Monster_Jump_8_39
+  - first:
+      213: 4500372355508648047
+    second: Pink_Monster_Jump_8_40
+  - first:
+      213: 2718252997515486406
+    second: Pink_Monster_Jump_8_41
+  - first:
+      213: 5568138297765595304
+    second: Pink_Monster_Jump_8_42
+  - first:
+      213: -7764644460784908205
+    second: Pink_Monster_Jump_8_43
+  - first:
+      213: -1794734478747044398
+    second: Pink_Monster_Jump_8_44
+  - first:
+      213: -2330296992193991826
+    second: Pink_Monster_Jump_8_45
+  - first:
+      213: -8966413162068654337
+    second: Pink_Monster_Jump_8_46
+  - first:
+      213: -3105811386886163473
+    second: Pink_Monster_Jump_8_47
+  - first:
+      213: 8825785682932193952
+    second: Pink_Monster_Jump_8_48
+  - first:
+      213: 3055177880779864270
+    second: Pink_Monster_Jump_8_49
+  - first:
+      213: 5322729835064307467
+    second: Pink_Monster_Jump_8_50
+  - first:
+      213: 3727469507301746632
+    second: Pink_Monster_Jump_8_51
+  - first:
+      213: 3885569800086907950
+    second: Pink_Monster_Jump_8_52
+  - first:
+      213: -3837084693823898038
+    second: Pink_Monster_Jump_8_53
+  - first:
+      213: -7960019984423172460
+    second: Pink_Monster_Jump_8_54
+  - first:
+      213: 6819799422527158807
+    second: Pink_Monster_Jump_8_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce52785abfcdfaf10800000000000000
+      internalID: 2283286509472130540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d542542cb2fefa50800000000000000
+      internalID: 6556944997375165909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca159af419698c0800000000000000
+      internalID: -3992844248288220073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2dc1cf3853efaa0800000000000000
+      internalID: -6125399602190560530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d56bf2475437d0800000000000000
+      internalID: -2939628711568879435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e24a6555d875cb0800000000000000
+      internalID: -4875272673939935668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62faadb28a5809c0800000000000000
+      internalID: -3960816354698005906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_Jump_8_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345588919f562870800000000000000
+      internalID: 8657712412600128567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
